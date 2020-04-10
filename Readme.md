@@ -7,5 +7,5 @@ Simple utility to tidy up your downloads folder with one simple script.
 To Run:
 
 ```
-python main.py
+python3 organise.py
 ```
